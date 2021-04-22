@@ -2,10 +2,10 @@ import React from 'react'
 
 export const NothingSelected = () => {
     return (
-        <div className="nothing__main-content">
+        <div className="nothing__main-content animate__animated animate__bounceInRight">
             <p>
                 Select something
-                <hr />
+                <br />
                 or create an entry!
             </p>
 
